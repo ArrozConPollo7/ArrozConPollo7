@@ -38,9 +38,9 @@ Desarrollo web freelance · Automatización · IA aplicada
 ## Contribuciones
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArrozConPollo7/ArrozConPollo7/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArrozConPollo7/ArrozConPollo7/output/pacman.svg" />
-  <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/ArrozConPollo7/ArrozConPollo7/output/pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArrozConPollo7/ArrozConPollo7/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArrozConPollo7/ArrozConPollo7/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/ArrozConPollo7/ArrozConPollo7/output/pacman-contribution-graph.svg" />
 </picture>
 
 ---
