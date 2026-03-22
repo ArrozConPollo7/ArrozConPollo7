@@ -29,9 +29,8 @@ Desarrollo web freelance · Automatización · IA aplicada
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [andreaprietomakeup.com](https://andreaprietomakeup.com) | Sitio web para MUA en Cartagena | Next.js · Framer Motion · Vercel |
-| [fundacion-web](https://fundacion-web.vercel.app) | Web institucional con panel admin | Next.js · Supabase · shadcn/ui |
-| [taunDx.github.io](https://taunDx.github.io) | Portafolio personal | — |
+| [andreaprietomakeup.com](https://andreaprietomakeup.vercel.app) | Sitio web para MUA en Cartagena | Next.js · Framer Motion · Vercel |
+| [fundacion-web](https://fundacion-col.vercel.app) | Web institucional con panel admin | Next.js · Supabase · shadcn/ui |
 
 ---
 
