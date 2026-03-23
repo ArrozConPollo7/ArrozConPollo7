@@ -1,6 +1,6 @@
 # Juan D.
 
-Estudiante de Ingeniería en EAFIT · Medellín, Colombia  
+Estudiante de Ingeniería de Sistemas en EAFIT · Medellín, Colombia  
 Desarrollo web freelance · Automatización · IA aplicada
 
 ---
